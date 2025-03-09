@@ -1,0 +1,9 @@
+{
+  "content_security_policy": {
+    "allowed_origins": [
+      "https://tipply.pl",
+      "https://www.tipply.pl",
+      "https://*.tipply.pl"
+    ]
+  }
+}
